@@ -1,3 +1,9 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=medaziztousli.medaziztousli">
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohamedaziztousli@gmail.com)](mailto:mohamedaziztousli@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/medaziztousli/)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=0021620025757&text=Hello!👋)](https://api.whatsapp.com/send?phone=0021620025757&text=Hello!👋)
+
 ## Hey there! 👋 I am Aziz.
 
 - 💻 Intermediate Software Engineer at FinGenesis
@@ -26,7 +32,7 @@ My conceptual skills involve **DSA**, **OOP**, **APIs**, **Machine Learning**, *
   ### Machine Learning
   <div>
   <a href="https://pandas.pydata.org" target="_blank"><img style="margin: 10px" src="https://medaziztousli.weebly.com/uploads/1/4/7/9/147913808/published/pandas.png?1701831947" alt="Pandas" height="80" /></a>
-  <a href="https://scikit-learn.org/stable/" target="_blank"><img style="margin: 10px" src="https://medaziztousli.weebly.com/uploads/1/4/7/9/147913808/2560px-scikit-learn-logo-small-svg_orig.png" alt="Scikit-Learn" height="80" /></a>
+  <a href="https://scikit-learn.org/stable/" target="_blank"><img style="margin: 10px" src="https://medaziztousli.weebly.com/uploads/1/4/7/9/147913808/2560px-scikit-learn-logo-small-svg_orig.png" alt="Scikit-Learn" height="60" /></a>
   </div>
   <div>
   <a href="https://pytorch.org" target="_blank"><img style="margin: 10px" src="https://medaziztousli.weebly.com/uploads/1/4/7/9/147913808/published/640px-pytorch-logo-icon-svg.png?1701831631" alt="Pytorch" height="80" /></a>
@@ -37,7 +43,7 @@ My conceptual skills involve **DSA**, **OOP**, **APIs**, **Machine Learning**, *
 
 <td width="320">
 
-<div align="center">
+<div align="center" valign="top">
   
   ### DevOps
   <div>
@@ -78,5 +84,11 @@ My conceptual skills involve **DSA**, **OOP**, **APIs**, **Machine Learning**, *
 </td>
 </tr></table>
 
-## My Github Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medaziztousli)](https://github.com/anuraghazra/github-readme-stats)
+## My Badges
+
+
+
+## My Leetcode Stats
+[![Leetcode Stats](https://leetcard.jacoblin.cool/MedAzizTousli?theme=dark&font=Roboto%20Flex&ext=heatmap)](https://leetcode.com/medaziztousli)
+
+ 
