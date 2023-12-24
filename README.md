@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hey there! 👋 Meet Mohamed Aziz Tousli:
 
-<!--
-**MedAzizTousli/MedAzizTousli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Intermediate Software Engineer at FinGenesis
+- ⚙️ Passionate about Python, DevOps, and ML
+- 📊 Enthusiastic for data-driven application development
+- 🎓 École Polytechnique de Tunisie Graduate
+- 📄 University of Waterloo Alumnus
 
-Here are some ideas to get you started:
+My conceptual skills involve **DSA**, **OOP**, **APIs**, **Machine Learning**, **DevOps**, **Cloud Computing**, **Software Engineering Practices**, **Databases**, **Project Management**, **Design Patterns**​. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+### Software Engineering  
+<div align="center">  
+  <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://medaziztousli.weebly.com/uploads/1/4/7/9/147913808/published/python.png?1701832419" alt="Python" height="50" /></a>
+  <a href="https://pytest.org/" target="_blank"><img style="margin: 10px" src="https://medaziztousli.weebly.com/uploads/1/4/7/9/147913808/editor/image-2023-12-06-034433670-removebg-preview.png?1701830690" alt="Pytest" height="50" /></a>
+  
+</div>
+
+</td><td valign="top" width="33%">
