@@ -3,6 +3,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohamedaziztousli@gmail.com)](mailto:mohamedaziztousli@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/medaziztousli/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=0021620025757&text=Hello!👋)](https://api.whatsapp.com/send?phone=0021620025757&text=Hello!👋)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-black?logo=bandcamp&logoColor=white)](https://medaziztousli.weebly.com)
+<a href="https://leetcode.com/MedAzizTousli/" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fbadge.xyli.tech%2Fapi%2Fusers%2FMedAzizTousli&logo=leetcode&logoColor=yellow" alt="LeetCode user MedAzizTousli" height="21" /></a>
+
 
 ## Hey there! 👋 I am Aziz.
 
@@ -11,8 +14,6 @@
 - 📊 Enthusiastic for data-driven application development
 - 🎓 École Polytechnique de Tunisie Graduate
 - 📄 University of Waterloo Alumnus
-
-My conceptual skills involve **DSA**, **OOP**, **APIs**, **Machine Learning**, **DevOps**, **Cloud Computing**, **Software Engineering Practices**, **Databases**, **Project Management**, **Design Patterns**​. 
 
 ## My Skill Set
 <table width="100%" border-collapse="collapse"> <tr>
@@ -85,9 +86,9 @@ My conceptual skills involve **DSA**, **OOP**, **APIs**, **Machine Learning**, *
 </tr></table>
 
 ## My WakaTime Stats
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MedAzizTousli)](https://github.com/medaziztousli/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=medaziztousli)](https://github.com/anuraghazra/github-readme-stats)
 
-## My Leetcode Stats
+## My LeetCode Stats
 [![Leetcode Stats](https://leetcard.jacoblin.cool/MedAzizTousli?theme=dark&font=Roboto%20Flex&ext=heatmap)](https://leetcode.com/medaziztousli)
 
 ## My Badges
