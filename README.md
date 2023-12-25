@@ -84,11 +84,53 @@ My conceptual skills involve **DSA**, **OOP**, **APIs**, **Machine Learning**, *
 </td>
 </tr></table>
 
-## My Badges
-
-
+## My WakaTime Stats
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MedAzizTousli)](https://github.com/medaziztousli/github-readme-stats)
 
 ## My Leetcode Stats
 [![Leetcode Stats](https://leetcard.jacoblin.cool/MedAzizTousli?theme=dark&font=Roboto%20Flex&ext=heatmap)](https://leetcode.com/medaziztousli)
 
- 
+## My Badges
+<table width="100%" border-collapse="collapse"> 
+  <tr>
+    
+  <td width="320">
+    <div align="center">
+      <a href="https://www.credly.com/badges/66f264f6-dd1a-46aa-9911-b34fe495da5d" target="_blank"><img style="margin: 10px" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" height="200"/></a>
+    </div>
+  </td>
+
+  <td width="320">
+    <div align="center">
+      <a href="https://www.credly.com/badges/60871699-3af4-42dd-a7d3-e305d2a80918" target="_blank"><img style="margin: 10px" src="https://images.credly.com/size/680x680/images/2c927888-0058-4d06-a439-7bd0c50c59a9/Big_Data_Eng_-_Master_Stu_2018_-_2020.png" alt="Big Data Engineer - Mastery Award for Students 2018" height="200"/></a>
+    </div>
+  </td>
+  
+  <td width="320">
+    <div align="center">
+      <a href="https://www.credly.com/badges/fe0d3274-fdc5-4d9d-9529-a4e45ddc1542" target="_blank"><img style="margin: 10px" src="https://images.credly.com/size/680x680/images/8d1a9575-14eb-494a-9af5-cfc154c2bd59/MTA-Introduction-to-Programming-using-Python-2019.png" alt="MTA: Introduction to Programming Using Python - Certified 2019" height="200"/></a>
+    </div>
+  </td>
+  </tr>
+
+  <tr>
+  <td width="320">
+    <div align="center">
+      <a href="https://www.credly.com/badges/f3c1ed75-5b4a-4d8e-8c67-9d188deaa3de" target="_blank"><img style="margin: 10px" src="https://images.credly.com/size/680x680/images/0c79e2b7-b5b7-4fcb-a3c0-1a5cc9b93f18/MTA-Networking-Fundamentals-2019.png" alt="MTA: Networking Fundamentals - Certified 2019" height="200"/></a>
+    </div>
+  </td>
+
+  <td width="320">
+    <div align="center">
+      <a href="https://www.credly.com/badges/1c2cf72e-9d70-4905-a98b-fa4accbb7344" target="_blank"><img style="margin: 10px" src="https://images.credly.com/size/680x680/images/ea7a28fd-504c-4dec-a445-5aec449550a6/MTA-Database-Fundamentals-2019.png" alt="MTA: Database Fundamentals - Certified 2019" height="200"/></a>
+    </div>
+  </td>
+
+  <td width="320">
+    <div align="center">
+      <a href="https://www.credly.com/badges/7d083400-6716-44a3-9d34-574cbd5683f2" target="_blank"><img style="margin: 10px" src="https://images.credly.com/size/680x680/images/37392f32-a65b-4e35-862c-8730c8ddea47/MTA-Introduction-to-Programming-using-Java-2019.png" alt="MTA: Introduction to Programming Using Java - Certified 2019" height="200"/></a>
+    </div>
+  </td>
+  
+  </tr>
+</table>
