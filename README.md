@@ -1,135 +1,101 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=medaziztousli.medaziztousli">
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/medaziztousli/)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-black?logo=bandcamp&logoColor=white)](https://medaziztousli.weebly.com)
-<a href="https://leetcode.com/MedAzizTousli/" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fbadge.xyli.tech%2Fapi%2Fusers%2FMedAzizTousli&logo=leetcode&logoColor=yellow" alt="LeetCode user MedAzizTousli" height="21" /></a>
-
-
-## Hey there! 👋 I am Aziz.
-
-- 💻 Intermediate Software Engineer at FinGenesis
-- ⚙️ Passionate about Python, DevOps, and ML
-- 📊 Enthusiastic for data-driven application development
-- 🎓 École Polytechnique de Tunisie Graduate
-- 📄 University of Waterloo Alumnus
-
-## My Skill Set
-<table width="100%" border-collapse="collapse"> <tr>
-  
-<td width="320">
 
 <div align="center">
 
-  ### Software Engineering
+# Hey, I'm Aziz 👋
 
-  <div>
-  <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://medaziztousli.weebly.com/uploads/1/4/7/9/147913808/published/python.png?1701832419" alt="Python" height="80"/></a>
-  <a href="https://docs.pytest.org/en/7.4.x/" target="_blank"><img style="margin: 10px" src="https://medaziztousli.weebly.com/uploads/1/4/7/9/147913808/editor/image-2023-12-06-034433670-removebg-preview.png?1701830690" alt="Pytest" height="80" /></a>
-  </div>
-  <a href="https://fastapi.tiangolo.com" target="_blank"><img style="margin: 10px" src="https://medaziztousli.weebly.com/uploads/1/4/7/9/147913808/published/image-2023-12-06-033744420-removebg-preview.png?1701832421" alt="FastAPI" height="80" /></a>  
+### DevOps & Cloud Engineer ☁️
+**Kubernetes · AWS · Infrastructure as Code · Platform Automation**
 
-  ### Machine Learning
-  <div>
-  <a href="https://pandas.pydata.org" target="_blank"><img style="margin: 10px" src="https://medaziztousli.weebly.com/uploads/1/4/7/9/147913808/published/pandas.png?1701831947" alt="Pandas" height="80" /></a>
-  <a href="https://scikit-learn.org/stable/" target="_blank"><img style="margin: 10px" src="https://medaziztousli.weebly.com/uploads/1/4/7/9/147913808/2560px-scikit-learn-logo-small-svg_orig.png" alt="Scikit-Learn" height="60" /></a>
-  </div>
-  <div>
-  <a href="https://pytorch.org" target="_blank"><img style="margin: 10px" src="https://medaziztousli.weebly.com/uploads/1/4/7/9/147913808/published/640px-pytorch-logo-icon-svg.png?1701831631" alt="Pytorch" height="80" /></a>
-  <a href="https://www.tensorflow.org" target="_blank"><img style="margin: 10px" src="https://medaziztousli.weebly.com/uploads/1/4/7/9/147913808/published/tensorflow-logo-svg.png?1701831123" alt="Tensorflow" height="80" /></a>
-  </div>
+*Building reliable infrastructure, automating workflows, and making deployments simpler.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/medaziztousli/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-171717?style=for-the-badge&logo=googlechrome&logoColor=white)](https://medaziztousli.weebly.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedaziztousli@gmail.com)
+
 </div>
-</td>
 
-<td width="320">
+---
 
-<div align="center" valign="top">
-  
-  ### DevOps
-  <div>
-  <a href="https://www.linux.org" target="_blank"><img style="margin: 10px" src="https://medaziztousli.weebly.com/uploads/1/4/7/9/147913808/published/icons8-flat-linux-svg.png?1701831926" alt="Linux" height="80" /></a>
-  <a href="https://git-scm.com" target="_blank"><img style="margin: 10px" src="https://medaziztousli.weebly.com/uploads/1/4/7/9/147913808/published/git.png?1701831726" alt="Git" height="80" /></a>
-  </div>
-  <div>
-  <a href="https://www.docker.com" target="_blank"><img style="margin: 10px" src="https://medaziztousli.weebly.com/uploads/1/4/7/9/147913808/editor/docker.png?1701829559" alt="Docker" height="80" /></a>  
-  <a href="https://kubernetes.io" target="_blank"><img style="margin: 10px" src="https://medaziztousli.weebly.com/uploads/1/4/7/9/147913808/editor/kubernetes.png?1701829507" alt="Kubernetes" height="80" /></a>
-  </div>
-  <div>
-  <a href="https://aws.amazon.com" target="_blank"><img style="margin: 10px" src="https://medaziztousli.weebly.com/uploads/1/4/7/9/147913808/editor/aws.png?1701829747" alt="AWS" height="80" /></a>
-  </div>
-  <div>
-  <a href="https://kafka.apache.org" target="_blank"><img style="margin: 10px" src="https://medaziztousli.weebly.com/uploads/1/4/7/9/147913808/editor/kafka-wide.png?1701829867" alt="Kafka" height="80" /></a>
-  </div>
-</div>
-</td>
+### 👨‍💻 About me
 
-<td width="320">
-  
+I'm **Mohamed Aziz Tousli**, a polytechnic engineer from Tunisia specializing in **DevOps, cloud infrastructure, and automation**.
+
+My experience spans provisioning AWS infrastructure, operating Kubernetes clusters, building CI/CD pipelines, and improving the reliability and scalability of production systems.
+
+I also work with **data engineering**, developing Python-based ingestion workflows and automated ETL pipelines using AWS and Apache Airflow.
+
+- ☁️ **Cloud:** AWS, Terraform, Infrastructure as Code
+- ☸️ **Platform:** Kubernetes, Docker, Helm, Karpenter
+- 🔁 **Automation:** CI/CD, GitOps, Ansible
+- 📈 **Observability:** Prometheus, Grafana, Loki
+- 🐍 **Development:** Python, FastAPI, Linux
+- 🎓 **Education:** École Polytechnique de Tunisie
+
+### 🛠️ Tech stack
+
+**Cloud & Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+
+**Containers & Orchestration**
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![Karpenter](https://img.shields.io/badge/Karpenter-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+
+**CI/CD & Observability**
+
+![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+
+**Programming & Data Engineering**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+
+---
+
+### 🚀 Areas of expertise
+
+| ☸️ Platform Engineering | 🔁 DevOps Automation |
+|---|---|
+| AWS infrastructure, Kubernetes clusters, Terraform, Helm, Karpenter and scalable deployments. | CI/CD pipelines, GitOps practices, release automation, Ansible and infrastructure management. |
+| **📈 Reliability & Monitoring** | **📊 Data Engineering** |
+| Prometheus, Grafana, Loki, incident response, performance optimization and cloud cost efficiency. | Python, AWS Lambda, Airflow, Kafka, ETL pipelines and API-based data ingestion. |
+
+### 🏅 Certifications
+
+![CKA](https://img.shields.io/badge/CNCF-Certified%20Kubernetes%20Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+![AWS SAA](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+[![AWS CCP](https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/66f264f6-dd1a-46aa-9911-b34fe495da5d)
+
+### 📊 GitHub activity
+
 <div align="center">
-  
-  ### Databases
-  <div>
-  <a href="https://www.postgresql.org" target="_blank"><img style="margin: 10px" src="https://medaziztousli.weebly.com/uploads/1/4/7/9/147913808/editor/postgres.png?1701829738" alt="PostgreSQL" height="80" /></a>
-  <a href="https://www.mysql.com" target="_blank"><img style="margin: 10px" src="https://medaziztousli.weebly.com/uploads/1/4/7/9/147913808/published/5968313.png?1701831602" alt="MySQL" height="80" /></a>
-  </div>
-  <a href="https://redis.io" target="_blank"><img style="margin: 10px" src="https://medaziztousli.weebly.com/uploads/1/4/7/9/147913808/editor/redis.png?1701829597" alt="Redis" height="80" /></a>
 
-  ### Monitoring
-  <div>
-  <a href="https://grafana.com" target="_blank"><img style="margin: 10px" src="https://medaziztousli.weebly.com/uploads/1/4/7/9/147913808/published/grafana.png?1701831701" alt="Grafana" height="80" /></a>
-  <a href="https://prometheus.io" target="_blank"><img style="margin: 10px" src="https://medaziztousli.weebly.com/uploads/1/4/7/9/147913808/editor/prometheus.png?1701829835" alt="Prometheus" height="80" /></a>
-  </div>
-  <a href="https://grafana.com/oss/loki/" target="_blank"><img style="margin: 10px" src="https://medaziztousli.weebly.com/uploads/1/4/7/9/147913808/editor/loki.png?1701829825" alt="Loki" height="80" /></a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MedAzizTousli&show_icons=true&hide_border=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MedAzizTousli&layout=compact&hide_border=true&theme=transparent)
+
 </div>
-</td>
-</tr></table>
 
-## My WakaTime Stats
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=medaziztousli)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-## My LeetCode Stats
-[![Leetcode Stats](https://leetcard.jacoblin.cool/MedAzizTousli?theme=dark&font=Roboto%20Flex&ext=heatmap)](https://leetcode.com/medaziztousli)
+<div align="center">
 
-## My Badges
-<table width="100%" border-collapse="collapse"> 
-  <tr>
-    
-  <td width="320">
-    <div align="center">
-      <a href="https://www.credly.com/badges/66f264f6-dd1a-46aa-9911-b34fe495da5d" target="_blank"><img style="margin: 10px" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" height="200"/></a>
-    </div>
-  </td>
+**Let's connect and build something reliable.**
 
-  <td width="320">
-    <div align="center">
-      <a href="https://www.credly.com/badges/60871699-3af4-42dd-a7d3-e305d2a80918" target="_blank"><img style="margin: 10px" src="https://images.credly.com/size/680x680/images/2c927888-0058-4d06-a439-7bd0c50c59a9/Big_Data_Eng_-_Master_Stu_2018_-_2020.png" alt="Big Data Engineer - Mastery Award for Students 2018" height="200"/></a>
-    </div>
-  </td>
-  
-  <td width="320">
-    <div align="center">
-      <a href="https://www.credly.com/badges/fe0d3274-fdc5-4d9d-9529-a4e45ddc1542" target="_blank"><img style="margin: 10px" src="https://images.credly.com/size/680x680/images/8d1a9575-14eb-494a-9af5-cfc154c2bd59/MTA-Introduction-to-Programming-using-Python-2019.png" alt="MTA: Introduction to Programming Using Python - Certified 2019" height="200"/></a>
-    </div>
-  </td>
-  </tr>
+[LinkedIn](https://www.linkedin.com/in/medaziztousli/) · [Portfolio](https://medaziztousli.weebly.com) · [Email](mailto:mohamedaziztousli@gmail.com)
 
-  <tr>
-  <td width="320">
-    <div align="center">
-      <a href="https://www.credly.com/badges/f3c1ed75-5b4a-4d8e-8c67-9d188deaa3de" target="_blank"><img style="margin: 10px" src="https://images.credly.com/size/680x680/images/0c79e2b7-b5b7-4fcb-a3c0-1a5cc9b93f18/MTA-Networking-Fundamentals-2019.png" alt="MTA: Networking Fundamentals - Certified 2019" height="200"/></a>
-    </div>
-  </td>
-
-  <td width="320">
-    <div align="center">
-      <a href="https://www.credly.com/badges/1c2cf72e-9d70-4905-a98b-fa4accbb7344" target="_blank"><img style="margin: 10px" src="https://images.credly.com/size/680x680/images/ea7a28fd-504c-4dec-a445-5aec449550a6/MTA-Database-Fundamentals-2019.png" alt="MTA: Database Fundamentals - Certified 2019" height="200"/></a>
-    </div>
-  </td>
-
-  <td width="320">
-    <div align="center">
-      <a href="https://www.credly.com/badges/7d083400-6716-44a3-9d34-574cbd5683f2" target="_blank"><img style="margin: 10px" src="https://images.credly.com/size/680x680/images/37392f32-a65b-4e35-862c-8730c8ddea47/MTA-Introduction-to-Programming-using-Java-2019.png" alt="MTA: Introduction to Programming Using Java - Certified 2019" height="200"/></a>
-    </div>
-  </td>
-  
-  </tr>
-</table>
+</div>
