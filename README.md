@@ -70,33 +70,76 @@ I also work with **data engineering**, developing Python-based ingestion workflo
 
 ### 🚀 Areas of Expertise
 
-<table>
+
+<h3 align="center">🚀 Areas of Expertise</h3>
+
+<table align="center">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-#### ☸️ Platform Engineering
+<h4>☸️ Platform Engineering</h4>
 
-- AWS cloud infrastructure
-- Kubernetes cluster management
-- Terraform & Infrastructure as Code
-- Helm, Kustomize & Karpenter
-- Scalable containerized deployments
+AWS cloud infrastructure
+
+Kubernetes cluster management
+
+Terraform & Infrastructure as Code
+
+Helm, Kustomize & Karpenter
+
+Scalable containerized deployments
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-#### 🔁 DevOps & Automation
+<h4>🔁 DevOps & Automation</h4>
 
-- CI/CD pipeline development
-- GitOps & release management
-- Ansible automation
-- Cloud resource optimization
-- Infrastructure reliability
+CI/CD pipeline development
+
+GitOps & release management
+
+Ansible automation
+
+Cloud resource optimization
+
+Infrastructure reliability
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
+
+<h4>📈 Reliability & Observability</h4>
+
+Prometheus & Grafana monitoring
+
+Centralized logging with Loki
+
+Incident response & alerting
+
+Performance optimization
+
+Infrastructure availability
+
+</td>
+<td width="50%" align="center" valign="top">
+
+<h4>📊 Data Engineering</h4>
+
+Python-based ETL pipelines
+
+AWS Lambda & Apache Airflow
+
+Data ingestion & transformation
+
+Kafka streaming & API integration
+
+Automated data workflows
+
+</td>
+</tr>
+</table>
+
 
 #### 📈 Reliability & Observability
 
@@ -125,13 +168,22 @@ I also work with **data engineering**, developing Python-based ingestion workflo
 
 ### 🏅 Certifications
 
+
+<h3 align="center">🏅 Certifications</h3>
+
 <div align="center">
 
-[![CKA](https://img.shields.io/badge/CNCF-Certified%20Kubernetes%20Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://www.credly.com/earner/earned/badge/5119338d-c3e4-464d-b695-13a5b440f46b)
+<a href="https://www.cncf.io/certification/cka/">
+  <img src="https://img.shields.io/badge/CNCF-Certified%20Kubernetes%20Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="CKA"/>
+</a>
 
-[![AWS SAA](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+<a href="https://www.credly.com/earner/earned/badge/5119338d-c3e4-464d-b695-13a5b440f46b">
+  <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Solutions Architect Associate"/>
+</a>
 
-[![AWS CCP](https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/66f264f6-dd1a-46aa-9911-b34fe495da5d)
+<a href="https://www.credly.com/badges/66f264f6-dd1a-46aa-9911-b34fe495da5d">
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Cloud Practitioner"/>
+</a>
 
 </div>
 
