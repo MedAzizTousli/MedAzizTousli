@@ -17,7 +17,7 @@
 
 ---
 
-### 👨‍💻 About Me
+<h3>👨‍💻 About Me</h3>
 
 I'm **Mohamed Aziz Tousli**, a polytechnic engineer from Tunisia specializing in **DevOps, cloud infrastructure, and automation**.
 
@@ -34,7 +34,7 @@ I also work with **data engineering**, developing Python-based ingestion workflo
 
 ---
 
-### 🛠️ Tech Stack
+<h3>🛠️ Tech Stack</h3>
 
 #### ☁️ Cloud & Infrastructure
 
@@ -67,9 +67,6 @@ I also work with **data engineering**, developing Python-based ingestion workflo
 [![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)](https://airflow.apache.org/)
 
 ---
-
-### 🚀 Areas of Expertise
-
 
 <h3 align="center">🚀 Areas of Expertise</h3>
 
@@ -140,41 +137,14 @@ Automated data workflows
 </tr>
 </table>
 
-
-#### 📈 Reliability & Observability
-
-- Prometheus & Grafana monitoring
-- Centralized logging with Loki
-- Incident response & alerting
-- Performance optimization
-- Infrastructure availability
-
-</td>
-<td width="50%" valign="top">
-
-#### 📊 Data Engineering
-
-- Python-based ETL pipelines
-- AWS Lambda & Apache Airflow
-- Data ingestion & transformation
-- Kafka streaming & API integration
-- Automated data workflows
-
-</td>
-</tr>
-</table>
-
 ---
-
-### 🏅 Certifications
-
 
 <h3 align="center">🏅 Certifications</h3>
 
 <div align="center">
 
 <a href="https://www.cncf.io/certification/cka/">
-  <img src="https://img.shields.io/badge/CNCF-Certified%20Kubernetes%20Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="CKA"/>
+  <img src="https://img.shields.io/badge/CNCF-Certified%20Kubernetes%20Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Certified Kubernetes Administrator"/>
 </a>
 
 <a href="https://www.credly.com/earner/earned/badge/5119338d-c3e4-464d-b695-13a5b440f46b">
@@ -189,7 +159,7 @@ Automated data workflows
 
 ---
 
-### 📊 GitHub Activity
+<h3 align="center">📊 GitHub Activity</h3>
 
 <div align="center">
 
