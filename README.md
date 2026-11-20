@@ -131,7 +131,7 @@ Automated Data Workflows
 
 [![CKA](https://img.shields.io/badge/CNCF-Certified%20Kubernetes%20Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://www.cncf.io/certification/cka/)
 
-[![AWS SAA](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/earner/earned/badge/5119338d-c3e4-464d-b695-13a5b440f46b)
+[![AWS SAA](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/5119338d-c3e4-464d-b695-13a5b440f46b/public_url)
 
 [![AWS CCP](https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/66f264f6-dd1a-46aa-9911-b34fe495da5d)
 
