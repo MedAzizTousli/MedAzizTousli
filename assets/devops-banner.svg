@@ -1,24 +1,36 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" fill="none">
-  <title>Mohamed Aziz Tousli — DevOps and Cloud Engineer</title>
-  <desc>A navy banner with a deployment pipeline illustration: infrastructure, delivery, and observability.</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="340" gradientUnits="userSpaceOnUse"><stop stop-color="#0B1220"/><stop offset="1" stop-color="#132D3A"/></linearGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#91C4D8" stroke-opacity=".06"/></pattern>
-  </defs>
-  <rect width="1200" height="340" rx="20" fill="url(#bg)"/>
-  <rect width="1200" height="340" rx="20" fill="url(#grid)"/>
-  <rect x="48" y="49" width="4" height="24" rx="2" fill="#5EEAD4"/>
-  <text x="66" y="67" fill="#5EEAD4" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600" letter-spacing="3">INFRASTRUCTURE / AUTOMATION / RELIABILITY</text>
-  <text x="48" y="137" fill="#F1F5F9" font-family="Segoe UI,Arial,sans-serif" font-size="46" font-weight="700">Mohamed Aziz Tousli</text>
-  <text x="50" y="180" fill="#B9D4E2" font-family="Segoe UI,Arial,sans-serif" font-size="25">DevOps &amp; Cloud Engineer</text>
-  <text x="50" y="231" fill="#91AABC" font-family="Segoe UI,Arial,sans-serif" font-size="18">Reliable platforms. Repeatable deployments.</text>
-  <text x="50" y="287" fill="#5EEAD4" font-family="Consolas,monospace" font-size="14">AWS  /  KUBERNETES  /  TERRAFORM  /  PYTHON</text>
-  <path d="M842 102V237M842 102H887M842 169H887M842 237H887" stroke="#365967" stroke-width="2"/>
-  <circle cx="842" cy="102" r="5" fill="#5EEAD4"/><circle cx="842" cy="169" r="5" fill="#5EEAD4"/><circle cx="842" cy="237" r="5" fill="#5EEAD4"/>
-  <g font-family="Consolas,monospace" font-size="14">
-    <rect x="887" y="77" width="259" height="50" rx="9" fill="#142C38" stroke="#365967"/><text x="907" y="108" fill="#5EEAD4">01</text><text x="946" y="108" fill="#E2E8F0">PROVISION</text>
-    <rect x="887" y="144" width="259" height="50" rx="9" fill="#142C38" stroke="#365967"/><text x="907" y="175" fill="#5EEAD4">02</text><text x="946" y="175" fill="#E2E8F0">DEPLOY</text>
-    <rect x="887" y="212" width="259" height="50" rx="9" fill="#142C38" stroke="#365967"/><text x="907" y="243" fill="#5EEAD4">03</text><text x="946" y="243" fill="#E2E8F0">OBSERVE</text>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none">
+<title>Hey, I'm Aziz — DevOps and Cloud Engineer</title>
+<desc>Mohamed Aziz Tousli. Build, ship, scale. A colorful cloud engineering banner with a terminal illustration.</desc>
+<defs>
+<linearGradient id="bg" x2="1200" y2="360" gradientUnits="userSpaceOnUse"><stop stop-color="#171033"/><stop offset=".55" stop-color="#172247"/><stop offset="1" stop-color="#083C4A"/></linearGradient>
+<linearGradient id="accent" x2="1200" gradientUnits="userSpaceOnUse"><stop stop-color="#A78BFA"/><stop offset=".48" stop-color="#38BDF8"/><stop offset="1" stop-color="#2DD4BF"/></linearGradient>
+<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#C4B5FD" opacity=".12"/></pattern>
+</defs>
+<rect width="1200" height="360" rx="22" fill="url(#bg)"/>
+<rect width="1200" height="360" rx="22" fill="url(#dots)"/>
+<circle cx="1130" cy="45" r="160" fill="#22D3EE" opacity=".06"/>
+<circle cx="550" cy="350" r="190" fill="#8B5CF6" opacity=".08"/>
+<path d="M24 2H1176" stroke="url(#accent)" stroke-width="4" stroke-linecap="round"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<rect x="50" y="42" width="244" height="30" rx="15" fill="#8B5CF6" fill-opacity=".2" stroke="#A78BFA" stroke-opacity=".4"/>
+<text x="69" y="62" font-size="12" font-weight="700" letter-spacing="2" fill="#DDD6FE">BUILD. SHIP. SCALE.</text>
+<text x="48" y="148" font-size="64" font-weight="800" fill="#F8FAFC">Hey, I'm Aziz.</text>
+<text x="52" y="187" font-size="21" fill="#C4B5FD">Mohamed Aziz Tousli</text>
+<text x="50" y="239" font-size="28" font-weight="600" fill="#67E8F9">DevOps &amp; Cloud Engineer</text>
+<text x="52" y="292" font-size="16" fill="#C5D4EA">Infrastructure as code. Automation at heart.</text>
+</g>
+<g transform="translate(760 72)">
+<rect width="388" height="218" rx="15" fill="#0C142A" stroke="#54659A" stroke-opacity=".65"/>
+<path d="M0 42H388" stroke="#293750"/>
+<circle cx="22" cy="22" r="5" fill="#FB7185"/><circle cx="40" cy="22" r="5" fill="#FBBF24"/><circle cx="58" cy="22" r="5" fill="#34D399"/>
+<text x="92" y="27" font-family="Consolas,monospace" font-size="12" fill="#94A3B8">aziz@cloud ~</text>
+<g font-family="Consolas,monospace" font-size="16">
+<text x="25" y="78" fill="#C4B5FD">$ build --with-purpose</text>
+<text x="25" y="112" fill="#67E8F9">  infrastructure → code</text>
+<text x="25" y="144" fill="#FBBF24">  delivery       → automated</text>
+<text x="25" y="176" fill="#5EEAD4">  systems        → observable</text>
+</g>
+<rect x="25" y="193" width="9" height="3" fill="#A78BFA"/>
+</g>
 </svg>
 
