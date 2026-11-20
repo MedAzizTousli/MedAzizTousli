@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" fill="none">
+  <title>Mohamed Aziz Tousli — DevOps and Cloud Engineer</title>
+  <desc>A navy banner with a deployment pipeline illustration: infrastructure, delivery, and observability.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="340" gradientUnits="userSpaceOnUse"><stop stop-color="#0B1220"/><stop offset="1" stop-color="#132D3A"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#91C4D8" stroke-opacity=".06"/></pattern>
+  </defs>
+  <rect width="1200" height="340" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="20" fill="url(#grid)"/>
+  <rect x="48" y="49" width="4" height="24" rx="2" fill="#5EEAD4"/>
+  <text x="66" y="67" fill="#5EEAD4" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600" letter-spacing="3">INFRASTRUCTURE / AUTOMATION / RELIABILITY</text>
+  <text x="48" y="137" fill="#F1F5F9" font-family="Segoe UI,Arial,sans-serif" font-size="46" font-weight="700">Mohamed Aziz Tousli</text>
+  <text x="50" y="180" fill="#B9D4E2" font-family="Segoe UI,Arial,sans-serif" font-size="25">DevOps &amp; Cloud Engineer</text>
+  <text x="50" y="231" fill="#91AABC" font-family="Segoe UI,Arial,sans-serif" font-size="18">Reliable platforms. Repeatable deployments.</text>
+  <text x="50" y="287" fill="#5EEAD4" font-family="Consolas,monospace" font-size="14">AWS  /  KUBERNETES  /  TERRAFORM  /  PYTHON</text>
+  <path d="M842 102V237M842 102H887M842 169H887M842 237H887" stroke="#365967" stroke-width="2"/>
+  <circle cx="842" cy="102" r="5" fill="#5EEAD4"/><circle cx="842" cy="169" r="5" fill="#5EEAD4"/><circle cx="842" cy="237" r="5" fill="#5EEAD4"/>
+  <g font-family="Consolas,monospace" font-size="14">
+    <rect x="887" y="77" width="259" height="50" rx="9" fill="#142C38" stroke="#365967"/><text x="907" y="108" fill="#5EEAD4">01</text><text x="946" y="108" fill="#E2E8F0">PROVISION</text>
+    <rect x="887" y="144" width="259" height="50" rx="9" fill="#142C38" stroke="#365967"/><text x="907" y="175" fill="#5EEAD4">02</text><text x="946" y="175" fill="#E2E8F0">DEPLOY</text>
+    <rect x="887" y="212" width="259" height="50" rx="9" fill="#142C38" stroke="#365967"/><text x="907" y="243" fill="#5EEAD4">03</text><text x="946" y="243" fill="#E2E8F0">OBSERVE</text>
+  </g>
+</svg>
+
