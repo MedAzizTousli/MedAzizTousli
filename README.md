@@ -17,7 +17,7 @@
 
 ---
 
-<h3>👨‍💻 About Me</h3>
+## 👨‍💻 About Me
 
 I'm **Mohamed Aziz Tousli**, a polytechnic engineer from Tunisia specializing in **DevOps, cloud infrastructure, and automation**.
 
@@ -34,23 +34,23 @@ I also work with **data engineering**, developing Python-based ingestion workflo
 
 ---
 
-<h3>🛠️ Tech Stack</h3>
+## 🛠️ Tech Stack
 
-#### ☁️ Cloud & Infrastructure
+### ☁️ Cloud & Infrastructure
 
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/)
 [![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)](https://developer.hashicorp.com/terraform)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.kernel.org/)
 [![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)](https://docs.ansible.com/)
 
-#### ☸️ Containers & Orchestration
+### ☸️ Containers & Orchestration
 
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)](https://helm.sh/)
 [![Karpenter](https://img.shields.io/badge/Karpenter-232F3E?style=flat-square&logo=amazonaws&logoColor=white)](https://karpenter.sh/)
 
-#### 🔁 CI/CD & Observability
+### 🔁 CI/CD & Observability
 
 [![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://docs.gitlab.com/ci/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
@@ -58,7 +58,7 @@ I also work with **data engineering**, developing Python-based ingestion workflo
 [![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)](https://grafana.com/)
 [![Loki](https://img.shields.io/badge/Loki-0B8367?style=flat-square&logo=grafana&logoColor=white)](https://grafana.com/oss/loki/)
 
-#### 🐍 Programming & Data Engineering
+### 🐍 Programming & Data Engineering
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
@@ -68,98 +68,76 @@ I also work with **data engineering**, developing Python-based ingestion workflo
 
 ---
 
-<h3 align="center">🚀 Areas of Expertise</h3>
+## 🚀 Areas of Expertise
 
-<table align="center">
+<table>
 <tr>
 <td width="50%" align="center" valign="top">
-
-<h4>☸️ Platform Engineering</h4>
-
-AWS cloud infrastructure
-
-Kubernetes cluster management
-
-Terraform & Infrastructure as Code
-
-Helm, Kustomize & Karpenter
-
-Scalable containerized deployments
-
+<br>
+<h3>☸️ Platform Engineering</h3>
+<p>
+AWS Cloud Infrastructure<br>
+Kubernetes Cluster Management<br>
+Terraform & Infrastructure as Code<br>
+Helm, Kustomize & Karpenter<br>
+Scalable Containerized Deployments
+</p>
+<br>
 </td>
 <td width="50%" align="center" valign="top">
-
-<h4>🔁 DevOps & Automation</h4>
-
-CI/CD pipeline development
-
-GitOps & release management
-
-Ansible automation
-
-Cloud resource optimization
-
-Infrastructure reliability
-
+<br>
+<h3>🔁 DevOps & Automation</h3>
+<p>
+CI/CD Pipeline Development<br>
+GitOps & Release Management<br>
+Ansible Automation<br>
+Cloud Resource Optimization<br>
+Infrastructure Reliability
+</p>
+<br>
 </td>
 </tr>
 <tr>
 <td width="50%" align="center" valign="top">
-
-<h4>📈 Reliability & Observability</h4>
-
-Prometheus & Grafana monitoring
-
-Centralized logging with Loki
-
-Incident response & alerting
-
-Performance optimization
-
-Infrastructure availability
-
+<br>
+<h3>📈 Reliability & Observability</h3>
+<p>
+Prometheus & Grafana Monitoring<br>
+Centralized Logging with Loki<br>
+Incident Response & Alerting<br>
+Performance Optimization<br>
+Infrastructure Availability
+</p>
+<br>
 </td>
 <td width="50%" align="center" valign="top">
-
-<h4>📊 Data Engineering</h4>
-
-Python-based ETL pipelines
-
-AWS Lambda & Apache Airflow
-
-Data ingestion & transformation
-
-Kafka streaming & API integration
-
-Automated data workflows
-
+<br>
+<h3>📊 Data Engineering</h3>
+<p>
+Python-based ETL Pipelines<br>
+AWS Lambda & Apache Airflow<br>
+Data Ingestion & Transformation<br>
+Kafka Streaming & API Integration<br>
+Automated Data Workflows
+</p>
+<br>
 </td>
 </tr>
 </table>
 
 ---
 
-<h3 align="center">🏅 Certifications</h3>
+## 🏅 Certifications
 
-<div align="center">
+[![CKA](https://img.shields.io/badge/CNCF-Certified%20Kubernetes%20Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://www.cncf.io/certification/cka/)
 
-<a href="https://www.cncf.io/certification/cka/">
-  <img src="https://img.shields.io/badge/CNCF-Certified%20Kubernetes%20Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Certified Kubernetes Administrator"/>
-</a>
+[![AWS SAA](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/earner/earned/badge/5119338d-c3e4-464d-b695-13a5b440f46b)
 
-<a href="https://www.credly.com/earner/earned/badge/5119338d-c3e4-464d-b695-13a5b440f46b">
-  <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Solutions Architect Associate"/>
-</a>
-
-<a href="https://www.credly.com/badges/66f264f6-dd1a-46aa-9911-b34fe495da5d">
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Cloud Practitioner"/>
-</a>
-
-</div>
+[![AWS CCP](https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/66f264f6-dd1a-46aa-9911-b34fe495da5d)
 
 ---
 
-<h3 align="center">📊 GitHub Activity</h3>
+## 📊 GitHub Activity
 
 <div align="center">
 
